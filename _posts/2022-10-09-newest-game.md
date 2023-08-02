@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
-date:   2022-10-09 15:39:40
+title:  "Rock On, Raccoon!"
+summary: "Systems Programmer and Designer"
+date:   8/4/2023
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/rockonraccoon.jpg)
 
-Here's some impressive stuff I did:
 
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
