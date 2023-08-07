@@ -5,7 +5,7 @@ summary: "Creator"
 preview: /assets/UMFPS.png
 ---
 
-![Picture 1](/assets/UMFPS.png)
+https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/fda72aba-06e3-4bab-9ba2-9c9253c7bb3a
 
 Untitled Movement FPS was my submission to the 7dfps game jam competition and my first experience working with Godot
 
@@ -16,5 +16,4 @@ In summary:
 - Players love it when you give them all the tools at the start and let them combine them in different ways
 - I'll never use a dropdown menu for keybindings ever again
 
-https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/fda72aba-06e3-4bab-9ba2-9c9253c7bb3a
 https://noahdoestechthings.itch.io/untitled-movement-fps
