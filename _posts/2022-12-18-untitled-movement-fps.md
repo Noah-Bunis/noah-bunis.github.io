@@ -5,7 +5,7 @@ summary: "Creator"
 preview: /assets/UMFPS.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/UMFPS.png)
 
 Untitled Movement FPS was my submission to the 7dfps game jam competition and my first experience working with Godot
 
