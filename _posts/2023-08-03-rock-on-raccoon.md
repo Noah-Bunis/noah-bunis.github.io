@@ -6,8 +6,8 @@ date:   8/4/2023
 preview: /assets/IMG_2972.png
 ---
 
-![Rock On, Raccoon!](/assets/rockonraccoontrailergif.gif)
+<video src="https://www.youtube.com/watch?v=ssWZExkMvnk" controls="controls" style="max-width: 800px;">
+</video>
 
-https://www.youtube.com/watch?v=ssWZExkMvnk
 
 ![](/assets/RORbuttoncode.png)
