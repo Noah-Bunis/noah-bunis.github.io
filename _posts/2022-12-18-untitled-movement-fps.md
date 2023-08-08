@@ -13,7 +13,7 @@ Untitled Movement FPS was my submission to the 7dfps game jam competition and my
 Even with the limited time given I was able to create a deep movement system for the player to experiment with as they cleared the five levels as fast as they could.
 
 In summary:
-- Wallrunning, linear interpolation, and hitstop are *addicting*
+- Linear interpolation, particles and hitstop are incredibly fun in any game
 - Players love it when you give them all the tools at the start and let them combine them in different ways
 - I'll never use a dropdown menu for keybindings ever again
 
