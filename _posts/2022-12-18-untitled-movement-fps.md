@@ -17,4 +17,4 @@ In summary:
 - Players love it when you give them all the tools at the start and let them combine them in different ways
 - I'll never use a dropdown menu for keybindings ever again
 
-https://noahdoestechthings.itch.io/untitled-movement-fps
+[Play it on itch.io](https://noahdoestechthings.itch.io/untitled-movement-fps)
