@@ -5,7 +5,8 @@ summary: "Creator"
 preview: /assets/UMFPS.png
 ---
 
-https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/fda72aba-06e3-4bab-9ba2-9c9253c7bb3a
+<video src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/fda72aba-06e3-4bab-9ba2-9c9253c7bb3a" controls="controls" style="max-width: 730px;">
+</video>
 
 Untitled Movement FPS was my submission to the 7dfps game jam competition and my first experience working with Godot
 
