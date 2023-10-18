@@ -2,7 +2,7 @@
 layout: post
 title:  "Magic The Gathering - Upkeep"
 summary: "Creator"
-preview: /assets/postpreview.png
+preview: /assets/mtgupkeep.png
 ---
 
 
