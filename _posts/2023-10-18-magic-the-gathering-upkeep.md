@@ -3,7 +3,7 @@ layout: post
 title:  "Magic The Gathering - Upkeep"
 summary: "Creator"
 preview:
-date: 10/18/2023
+date:   10/18/2023
 ---
 
 
