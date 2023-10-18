@@ -6,7 +6,7 @@ preview: /assets/mtgupkeep.png
 ---
 
 
-(Work in progress, More information to come soon)
+(Work in progress, more information to come soon)
 
 
 
