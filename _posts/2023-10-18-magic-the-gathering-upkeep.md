@@ -20,5 +20,5 @@ Following the success of recent games in the bullet hell genre, I was inspired b
 
 
 
-***Portions of this game are unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). The literal and graphical information presented in this game about Magic: The Gathering, including card images, card artwork, fonts, and mana symbols, is copyright Wizards of the Coast, LLC.***
+***Portions of this game are unofficial Fan Content permitted under the [Wizards of the Coast Fan Content Policy](https://company.wizards.com/en/legal/fancontentpolicy). The literal and graphical information presented in this game about Magic: The Gathering, including card images, card artwork, fonts, and music, is copyright Wizards of the Coast, LLC.***
 
