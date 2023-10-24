@@ -6,7 +6,7 @@ preview: /assets/BlackLotus.png
 ---
 
 
-(Work in progress, more information to come soon)
+***(This game is currently a work in progress, more information to come soon)***
 
 Following the success of recent games in the bullet hell genre, I was inspired by the similarities between their upgrade strategies and *Magic*'s own deckbuilding variety. As someone who has played *Magic: The Gathering* for over a decade (and gambled my college entrance essay on writing about it) creating a faithful adaptation of the two would was not only something that I was incredibly passionate about but made several solo developer roadblocks such as design or asset creation significantly easier to tackle.
 
