@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(WIP) Magic The Gathering - Upkeep"
+title:  "Magic The Gathering - Upkeep"
 summary: ""
 preview: /assets/BlackLotus.png
 ---
