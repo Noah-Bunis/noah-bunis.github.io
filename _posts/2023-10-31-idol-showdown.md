@@ -8,6 +8,6 @@ date:   10/4/2023
 
 *(this page is a work-in-progress as my contributions apply to ongoing development, please see [Idol Showdown](https://twitter.com/IdolShowdown) for more information)*
 
-<video https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/e7c35316-6080-43c0-8474-ff8fb137a383 controls="controls" style="max-width: 730px;">
+<video src:"https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/e7c35316-6080-43c0-8474-ff8fb137a383" controls="controls" style="max-width: 730px;">
 </video>
 
