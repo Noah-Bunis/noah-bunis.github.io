@@ -6,7 +6,7 @@ date:   1/3/2023
 preview: /assets/UMFPS.png
 ---
 
-Untitled Movement FPS was intially made for the 7dfps 2022 game jam. 
+Untitled Movement FPS was intially made in Godot for the 7dfps 2022 game jam. 
 
 The game is available [on itch.io](https://noahdoestechthings.itch.io/untitled-movement-fps)
 
