@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Magic The Gathering - Upkeep"
-summary: ""
+summary: "Personal Project"
 preview: /assets/BlackLotus.png
 date: 7/1/2023
 ---
