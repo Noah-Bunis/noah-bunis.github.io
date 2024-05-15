@@ -6,8 +6,7 @@ date:   8/4/2023
 preview: /assets/IMG_2972.png
 ---
 
-<video src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/c45703ae-393e-47f0-9eef-b778ff90e69c" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="646" height="377" src="https://www.youtube.com/embed/ssWZExkMvnk?si=kQ5uOBSOthp3LRHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I worked on *Rock On, Raccoon!* during my summer internship at MassDigi studios. Taking on such a complex genre as a mobile rhythm game was an incredible challenge and I am incredibly proud of the result.
 
