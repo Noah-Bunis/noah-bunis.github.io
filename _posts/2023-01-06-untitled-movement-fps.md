@@ -11,6 +11,6 @@ Untitled Movement FPS was intially made in Godot for the 7dfps 2022 game jam.
 The game is available [on itch.io](https://noahdoestechthings.itch.io/untitled-movement-fps)
 
 
-<video src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/8549a85f-f939-449c-926d-d83913fcb141" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/8549a85f-f939-449c-926d-d83913fcb141" controls="controls" style="width: 80%;">
 </video>
 
