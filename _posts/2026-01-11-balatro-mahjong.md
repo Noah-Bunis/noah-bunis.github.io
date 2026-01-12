@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Balatro - Mahjong Mod](https://github.com/Noah-Bunis/BalatroMahjong)"
+title:  "Balatro - Mahjong Mod"
 summary: "Personal Project"
 date:   2026-01-11
 preview: /assets/Red.png
