@@ -8,4 +8,4 @@ preview: /assets/Red.png
 
 [Link to Github Repository](https://github.com/Noah-Bunis/BalatroMahjong)
 
-<blockquote class="twitter-tweet" data-theme="dark" data-dnt="true" align="center"><p lang="en" dir="ltr">major progress on the balatro mahjong mod <a href="https://t.co/TNeHMAFko5">pic.twitter.com/TNeHMAFko5</a></p>&mdash;<a href="https://twitter.com/keyboard_noah/status/2008279527873548417?ref_src=twsrc%5Etfw">January 5, 2026</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<video src="https://github.com/Noah-Bunis/noah-bunis.github.io/blob/3013a7ffaf52d0d2b509b0563a40aa5801ee0601/assets/BalatroMod.mp4" controls="controls" style="max-width: 730px;"></video>
