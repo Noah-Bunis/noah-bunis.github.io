@@ -7,6 +7,6 @@ preview: /assets/Red.png
 ---
 
 
-https://github.com/user-attachments/assets/e78ba9c0-d4c5-489d-bd34-2324505dd6bb
+/assets/BalatroMod.mp4
 
 [Link to Github Repository](https://github.com/Noah-Bunis/BalatroMahjong)
