@@ -2,7 +2,7 @@
 layout: post
 title:  "Rock On, Raccoon!"
 summary: "Systems Programmer and Designer"
-date:   8/4/2023
+date:   8/4/00
 preview: /assets/IMG_2972.png
 ---
 

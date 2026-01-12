@@ -2,7 +2,7 @@
 layout: post
 title:  "Untitled Movement FPS"
 summary: "7dfps 2022 Game Jam Submission"
-date:   1/6/2023
+date:   1/6/00
 preview: /assets/UMFPS.png
 ---
 
