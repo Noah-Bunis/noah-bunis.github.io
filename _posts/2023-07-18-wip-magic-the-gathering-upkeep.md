@@ -7,7 +7,7 @@ date: 2023-07-18
 ---
 
 
-Following the success of recent games in the bullet hell genre, I was inspired by the similarities between their upgrade strategies and *Magic*'s own deckbuilding variety. As someone who has played *Magic: The Gathering* for over a decade (and gambled my college entrance essay on writing about it) creating a faithful adaptation of the two would was not only something that I was incredibly passionate about but made several solo developer roadblocks such as design or asset creation significantly easier to tackle.
+Following the success of recent games in the bullet hell genre, I was inspired by the similarities between their upgrade strategies and *Magic*'s own deckbuilding variety. As someone who has played *Magic: The Gathering* for over a decade (even writing my college application essay on it) creating a faithful adaptation of the two would was not only something that I was incredibly passionate about but made several solo developer roadblocks such as design or asset creation significantly easier to tackle.
 
 <img width="80%" alt="MTGUpkeepDevlog1" src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/78fdaefe-f8e8-4e12-be6f-ef31b00d6db4">
 <img width="80%" alt="MTGUpkeepDevlog2" src="https://github.com/Noah-Bunis/noah-bunis.github.io/assets/141171556/8940df04-1158-47db-a87a-4262d1ab78f1">
