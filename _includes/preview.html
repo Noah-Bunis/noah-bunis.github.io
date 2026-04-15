@@ -1,6 +1,11 @@
 {% assign featured_posts = site.posts | where: "featured", true %}
 {% assign regular_posts = site.posts | where_exp: "post", "post.featured != true" %}
 
+{% if featured_posts.size > 0 %}
+<div class="featured-section">
+    <div class="featured-caption">Featured Projects</div>
+{% endif %}
+
 {% for post in featured_posts %}
     {% cycle 'featured add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
@@ -15,6 +20,10 @@
 {% cycle 'featured end row' : '', '', '</div>' %}
 {% endfor %}
 {% if featured_posts.size > 0 and featured_posts.size % 3 != 0 %}
+</div>
+{% endif %}
+{% if featured_posts.size > 0 %}
+    <hr class="section-divider">
 </div>
 {% endif %}
 
