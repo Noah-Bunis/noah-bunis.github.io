@@ -4,6 +4,7 @@ title:  "Magic The Gathering - Upkeep"
 summary: "Personal Project"
 preview: /assets/BlackLotus.png
 date: 2023-07-18
+featured: false
 ---
 
 

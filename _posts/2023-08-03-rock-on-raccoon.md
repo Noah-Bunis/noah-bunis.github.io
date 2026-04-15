@@ -4,6 +4,7 @@ title:  "Rock On, Raccoon!"
 summary: "Systems Programmer and Designer"
 date:   2023-08-03
 preview: /assets/IMG_2972.png
+featured: true
 ---
 
 <iframe width="646" height="377" src="https://www.youtube.com/embed/ssWZExkMvnk?si=kQ5uOBSOthp3LRHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

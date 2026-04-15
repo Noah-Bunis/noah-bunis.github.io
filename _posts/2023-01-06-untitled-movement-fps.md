@@ -4,6 +4,7 @@ title:  "Untitled Movement FPS"
 summary: "7dfps 2022 Game Jam Submission"
 date:   2023-01-06
 preview: /assets/UMFPS.png
+featured: false
 ---
 
 Untitled Movement FPS was intially made in Godot for the 7dfps 2022 game jam. 

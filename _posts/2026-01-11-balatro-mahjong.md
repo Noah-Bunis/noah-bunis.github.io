@@ -4,6 +4,7 @@ title:  "Balatro - Mahjong Mod"
 summary: "Personal Project"
 date:   2026-01-11
 preview: /assets/Red.png
+featured: false
 ---
 
 A mod for Balatro that adds Mahjong tiles and scoring hands to the game
