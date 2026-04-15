@@ -83,7 +83,21 @@
         border: 1px solid $grey-color-light;
     }
 
-    &.featured-border {
-        border: 2px solid $highlight-color;
+    &.popout-border {
+        border: 2px solid $color-primary;
+        border-radius: 6px;
+        background: $color-initial;
+        box-shadow: 
+            $grey-color,   // soft base shadow
+            $grey-color-dark; // deeper lift
+
+        transition: all 0.2s ease;
+
+        &:hover {
+            transform: translateY(-2px); // slight lift
+            box-shadow: 
+            $grey-color,
+            $grey-color-dark;
+        }
     }
 }
