@@ -3,7 +3,7 @@ layout: post
 title:  "HoloHeaven"
 summary: "Guest Developer"
 date:   2026-05-31
-preview: /assets/AngelSubaruCO.png
+preview: /assets/AngelSubaruICO.png
 featured: true
 ---
 
